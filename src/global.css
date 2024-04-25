@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --button: "Open Sans";
+
+  /* font sizes */
+  --button-size: 16px;
+
+  /* Colors */
+  --light-gray: #e2e5e9;
+  --dark-gray: #495057;
+  --black: #1b1d1f;
+
+  /* Gaps */
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-12xs-5: 0.5px;
+}
